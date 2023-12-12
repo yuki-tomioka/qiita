@@ -1,5 +1,5 @@
 ---
-title: yupでAPIのレスポンスを元にバリデーションを設定する
+title: RHF+yupでAPIのレスポンスを元にバリデーションを設定する
 tags:
   - form
   - React
